@@ -4,6 +4,5 @@ export class User {
     this.name = name;
   }
   public id: number;
-  public name: string
-
+  public name: string;
 }
